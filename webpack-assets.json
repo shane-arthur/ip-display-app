@@ -1,0 +1,9 @@
+{
+  "javascript": {
+    "main": "http://localhost:8080/dist/bundle.js"
+  },
+  "styles": {},
+  "assets": {
+    "./assets/images/background.jpg": "http://localhost:8080/dist/42f6495a67fb8a0ae00473d8d8fe5193.jpg"
+  }
+}

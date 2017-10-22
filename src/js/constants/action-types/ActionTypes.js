@@ -1,0 +1,9 @@
+/* eslint camelcase : 0 */
+export const REMOVE_IP_ADDRESS = 'REMOVE_IP_ADDRESS';
+
+export const ADD_IP_ADDRESS_TO_STATE = 'ADD_IP_ADDRESS_TO_STATE';
+
+export const REMOVE_IP_ADDRESS_FROM_STATE = 'REMOVE_IP_ADDRESS_FROM_STATE';
+
+export const ADD_IP_ADDRESS = 'ADD_IP_ADDRESS';
+
